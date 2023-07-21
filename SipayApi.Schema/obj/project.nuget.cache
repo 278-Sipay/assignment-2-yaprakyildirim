@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wu8F4fUhvVnpY10SVycLgC8OUns6KXH0BcoHbCY78G/bq8qcAZ8BH577dWJssMgntZE/KatdIXmU7WL797r+QA==",
+  "dgSpecHash": "LqVFi2Oqv4yi3kp09PMM5OVOfze8H4jkEXNqONKSvt15DIYTat+Yj4hPdDZ+EXdTVWeeDDwZrsLVNCIr7CYeDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj",
+  "projectFilePath": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yyildirim\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\yyildirim\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
+      "projectUniqueName": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
       "projectName": "SipayApi.Data",
-      "projectPath": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
+      "projectPath": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
       "packagesPath": "C:\\Users\\yyildirim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Data\\obj\\",
+      "outputPath": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2088,8 +2088,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
-              "projectPath": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj"
+            "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
+              "projectPath": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj"
             }
           }
         }

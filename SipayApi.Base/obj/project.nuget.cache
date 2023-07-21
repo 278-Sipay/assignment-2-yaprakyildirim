@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c66xlHTMrXHk+2Fbq76yW/r8iRZ01F6xh8PoYSulkPT7K2+ZeUucHvEWF638mcKRHek2OWkfNtGZFAP2Kdn0xQ==",
+  "dgSpecHash": "bVkkBSXQo9+myLFRqrKPd2t9unScuwBRYhdOr6KP8HhJo6hpO13H0u5v5MFZWsmR3bvDD+D+hA3qs784OSICkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yyildirim\\source\\repos\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
+  "projectFilePath": "C:\\Users\\yyildirim\\Documents\\GitHub\\assignment-2-yaprakyildirim\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
