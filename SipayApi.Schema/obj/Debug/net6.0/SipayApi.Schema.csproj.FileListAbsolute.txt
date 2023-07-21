@@ -1,0 +1,17 @@
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Schema.deps.json
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Schema.dll
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Schema.pdb
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Base.dll
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Data.dll
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Data.pdb
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\bin\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.csproj.AssemblyReference.cache
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.AssemblyInfoInputs.cache
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.AssemblyInfo.cs
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.csproj.CoreCompileInputs.cache
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.csproj.CopyComplete
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.dll
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\refint\SipayApi.Schema.dll
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\SipayApi.Schema.pdb
+C:\Users\yyildirim\Source\Repos\pk-sipy\SipayApi\SipayApi.Schema\obj\Debug\net6.0\ref\SipayApi.Schema.dll
