@@ -1,4 +1,3 @@
-## Sipay API
 # Sipay API, finansal işlemleri sorgulama ve yönetme yeteneği sağlayan bir RESTful web servisidir.
 
 Başlıca Özellikler:
@@ -7,7 +6,7 @@ Otomatik nesne dönüşümü için AutoMapper entegrasyonu.
 Entity Framework Core ile veritabanı işlemleri.
 
 
-# TransactionController
+## TransactionController
 Bu Controller, finansal işlemleri sorgulamak için kullanılır.
 
 GET /sipy/api/Transaction/GetByParameter:
